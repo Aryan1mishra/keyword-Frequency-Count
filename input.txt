@@ -1,0 +1,2 @@
+This is a sample text file. It is meant to test the keyword frequency analyzer project.
+This project is built with Java and demonstrates the use of HashMap and PriorityQueue.
